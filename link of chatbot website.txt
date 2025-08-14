@@ -1,0 +1,2 @@
+link for deployed website:
+http://34.127.58.221:8501/
